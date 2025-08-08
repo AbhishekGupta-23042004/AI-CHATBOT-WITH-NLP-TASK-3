@@ -1,1 +1,18 @@
 # AI-CHATBOT-WITH-NLP-TASK-3
+
+*COMPANY*: CODETECH IT SOLUTIONS
+
+*NAME*: ABHISHEK DINESH GUPTA
+
+*INTERN ID*: CT04DH1276
+
+*DOMAIN*: PYTHON PROGRAMMING
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+Astra is an intelligent AI-powered chatbot designed to provide users with quick, accurate, and contextually relevant answers by leveraging multiple online information sources such as Wikipedia and Google Search, incorporated within an intuitive and visually appealing Tkinter graphical user interface. Developed in Python, Astra combines natural language processing, real-time speech recognition, and speech synthesis to facilitate seamless human-computer interaction that feels both natural and conversational. The chatbot’s core functionality lies in fetching information concurrently from Wikipedia and Google to deliver the most relevant summaries or topic suggestions, optimizing response speed by querying both sources in parallel with multithreading. Users can interact with Astra either through typing or voice commands, with speech recognition capturing queries and the Windows SAPI5 text-to-speech engine via the comtypes library vocalizing responses for an immersive experience. Astra enhances usability by providing a multi-line chat input box with placeholder text, a scrollable chat history display that timestamps every message, and clearly distinguishes between user inputs and bot replies with intuitive prefixes, creating an organized and friendly conversation flow. To add a human emotional dimension, Astra analyzes the user’s message sentiment using the VaderSentiment library, enabling it to detect positive, neutral, or negative emotions and respond empathetically — expressing cheerfulness, sympathy, or neutrality through tailored phrases and subtle variations in speech tone and rate, making interactions more engaging and personable. A sophisticated caching mechanism speeds up repeated queries by storing previous results, while a unique “Tell me more about item X” feature allows users to dive deeper into Google-sourced topic suggestions with additional Wikipedia summaries, supporting natural follow-up questions without redundant searching. Astra also supports polite conversational cues and common social interactions such as greetings and expressions of thanks, further softening the interface to feel more like a real assistant. The graphical interface employs a modern dark theme with harmonious colors, responsive layouts, and interactive button hover effects to improve usability and aesthetic appeal, and it supports convenient keyboard shortcuts like pressing Enter to send messages and Shift+Enter to add new lines, optimizing user input efficiency. Powered by robust Python libraries including nltk for linguistic processing, wikipedia module for knowledge extraction, googlesearch-python for retrieving relevant URLs, and SpeechRecognition for voice input, Astra integrates these tools into a tightly orchestrated workflow to maintain responsiveness and reliability. The project emphasizes modular design, separating core logic from GUI concerns, allowing easy expansion, such as adding additional APIs like WolframAlpha or advanced intent recognition frameworks in the future. Overall, Astra aims to be a polished, user-centric AI assistant capable of bridging the gap between complex information retrieval and a smooth, emotionally aware conversational experience, making knowledge accessible and interaction natural for every user, whether they prefer typing or speaking, casual chats or precise queries, offering both breadth and depth in responses, all packed into a sleek desktop application that embodies modern AI capabilities with human touch.
+
+#OUTPUT-
+
